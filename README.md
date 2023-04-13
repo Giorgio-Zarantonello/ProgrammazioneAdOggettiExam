@@ -111,22 +111,16 @@ Prerequisites:
 
 ### Installation
 
-1. ```
-    Getting Started with QT Framework Project:
+1. Getting Started with QT Framework Project:
 
     This guide will help you set up your QT Framework project locally. To get started, please follow these simple instructions:
 
-    ```
-
 2. Installation:
-   ```
 
     Clone the repository of your project.
     Open the project in your preferred IDE.
     Build the project.
     
-
-   ```
 3. Run the project.
     That’s it! Now you have successfully set up your QT Framework project.
 
