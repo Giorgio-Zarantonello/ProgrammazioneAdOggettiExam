@@ -115,9 +115,7 @@ Prerequisites:
 
     This guide will help you set up your QT Framework project locally. To get started, please follow these simple instructions:
 
-2. Installation:
-
-    Clone the repository of your project.
+2.  Clone the repository of your project.
     Open the project in your preferred IDE.
     Build the project.
     
