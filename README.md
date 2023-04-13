@@ -105,12 +105,9 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Prerequisites:
+   QT Framework installed on your system.
+   C++ compiler installed on your system.
 
 ### Installation
 
@@ -121,14 +118,7 @@ This is an example of how to list things you need to use the software and how to
 
     ```
 
-
-
-2. ```Prerequisites:
-   QT Framework installed on your system.
-   C++ compiler installed on your system.
-
-   ```
-3. Installation:
+2. Installation:
    ```
 
     Clone the repository of your project.
@@ -137,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
     
 
    ```
-4. Run the project.
+3. Run the project.
     That’s it! Now you have successfully set up your QT Framework project.
 
     Note: If you encounter any issues during the installation, please refer to the QT Framework documentation for further assistance.
