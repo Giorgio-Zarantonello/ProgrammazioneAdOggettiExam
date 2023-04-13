@@ -29,9 +29,9 @@ Repository del progetto di "Programmazione ad Oggetti" , in Qt framework
 <div align="center">
 ![Screenshot](screenshot.png)
 
-  <!-- <a href="./icons/pen.svg"> -->
+  <!-- <a href="./icons/pen.svg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">Gestore Noleggi Auto - QT Framework</h3>
 
