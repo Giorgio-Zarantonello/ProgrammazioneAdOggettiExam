@@ -91,7 +91,7 @@ What i've learned :
 
 ### Built With
 
-* [![React][React-native.js]][QT-url]
+* [![React-native][QT.js]][QT-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
