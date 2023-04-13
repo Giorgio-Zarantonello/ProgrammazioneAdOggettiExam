@@ -1,7 +1,6 @@
 # ProgrammazioneAdOggettiExam
 Repository del progetto di "Programmazione ad Oggetti" , in Qt framework
-# React-native-course-Udemy-
-corso "The Complete React Native + Hooks Course" by Stephen Grider @Udemy
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
