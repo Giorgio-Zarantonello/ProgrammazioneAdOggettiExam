@@ -27,9 +27,9 @@ Repository del progetto di "Programmazione ad Oggetti" , in Qt framework
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![plot](./icons/pen.svg)
+![Screenshot](screenshot.png)
 
-  <a href="./icons/pen.svg">
+  <!-- <a href="./icons/pen.svg"> -->
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
