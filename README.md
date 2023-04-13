@@ -114,15 +114,33 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
-2. ```sh
-   git clone https://github.com/Giorgio-Zarantonello/React-native-course
+1. ```
+    Getting Started with QT Framework Project:
+
+    This guide will help you set up your QT Framework project locally. To get started, please follow these simple instructions:
+
+    ```
+
+
+
+2. ```Prerequisites:
+   QT Framework installed on your system.
+   C++ compiler installed on your system.
+
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+3. Installation:
    ```
-4. Run it in an Android Emulator 
+
+    Clone the repository of your project.
+    Open the project in your preferred IDE.
+    Build the project.
+    
+
+   ```
+4. Run the project.
+    That’s it! Now you have successfully set up your QT Framework project.
+
+    Note: If you encounter any issues during the installation, please refer to the QT Framework documentation for further assistance.
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,7 +155,7 @@ This is an example of how to list things you need to use the software and how to
 
 Giorgio Zarantonello -  giorgio.zarantonello@gmail.com
 
-Project Link: [https://github.com/Giorgio-Zarantonello/React-native-course](https://github.com/Giorgio-Zarantonello/React-native-course)
+Project Link: [https://github.com/Giorgio-Zarantonello/ProgrammazioneAdOggettiExam](https://github.com/Giorgio-Zarantonello/ProgrammazioneAdOggettiExam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,9 +164,8 @@ Project Link: [https://github.com/Giorgio-Zarantonello/React-native-course](http
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Udemy](https://www.udemy.com/)
-* [Stephen Grider](https://www.udemy.com/user/sgslo/)
-* [Every cup of coffee consumed]()
+* [Universita' degli studi di Padova](https://www.unipd.it/)
+* [Francesco Ranzato](https://www.math.unipd.it/~ranzato/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
